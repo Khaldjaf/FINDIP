@@ -1,6 +1,6 @@
 # FINDIP
 
-git colne https://github.com/Blackhackerx/FINDIP
+git clone https://github.com/Blackhackerx/FINDIP
 
 cd FINDIP
 
