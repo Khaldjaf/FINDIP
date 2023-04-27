@@ -19,7 +19,4 @@ first1221
 first123@
 first1234@
 first12345@
-first@123
-first@1234
-first@12345
 
