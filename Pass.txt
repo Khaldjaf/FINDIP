@@ -4,10 +4,7 @@ first12
 first123
 first1234
 first12345
-123first
-1234first
-12345first
-123456first
+first1994
 first1995
 first1996
 first1997
@@ -21,6 +18,3 @@ first1122
 first1221
 first112233
 first11223344
-first123@
-first1234@
-first12345@
