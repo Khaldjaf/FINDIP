@@ -1,8 +1,5 @@
 firstlast
 firstfirst
-first123@
-first1234@
-first12345@
 first123
 first1234
 first12345
@@ -13,7 +10,6 @@ first12345
 1234567first
 12345678first
 123456789first
-first1995
 first1996
 first1997
 first1998
@@ -27,4 +23,3 @@ first1221
 first112233
 first11223344
 first123321
-first0000
