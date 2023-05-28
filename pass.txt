@@ -8,6 +8,3 @@ first12345
 1234first
 12345first
 123456first
-first1221
-first1122
-first1212
